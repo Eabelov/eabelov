@@ -1,7 +1,7 @@
 # Привет, меня зовут Егор
 ![Hi gif](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-### Я Adnroid разработчик из России 🇷🇺
+### Я Adnroid разработчик.
 
 **Ключевые компетенции:**
 - Решение задачи на Java и Kotlin
