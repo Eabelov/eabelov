@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Egor
+![Hi gif](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-<!--
-**Eabelov/eabelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android developer from Russia 🇷🇺
 
-Here are some ideas to get you started:
+**Ключевые компетенции:**
+- Решение задачи на Java и Kotlin
+- Создание с нуля приложение под Android
+- Автоматизированное тестирование приложения
+- Работа с многопоточностью
+- Использование мультимедиа-ресурсов в приложении и работа с камерой
+- Работа с дизайном приложения
+- Интеграция серверной части приложения
+- Работа с регистрацией и авторизацией
+- Использование Push-уведомления, геолокации, инструментов машинного обучения
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Профессиональный опыт:**
+Учебные проекты в Нетологии, направление «Программирование», курс «Android-разработчик».
